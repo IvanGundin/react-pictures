@@ -1,0 +1,9 @@
+.card {
+    padding: 5px
+}
+.cardList {
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
